@@ -9,4 +9,4 @@
 - Create a Cloudfront Distribution
 - Set Origin to the S3 Bucket
 
-- [Live site](d1a34kd880js02.cloudfront.net)
+- Live site: d1a34kd880js02.cloudfront.net
